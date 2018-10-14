@@ -1,4 +1,6 @@
 # Time_Zones
+Learn to Program: The Fundamentals https://www.coursera.org/learn/learn-to-program/home/week/2 
+
 Programming Assignment: Assignment 1: Time Zones
 
 A1 Problem Domain: Coordinated Universal Time
